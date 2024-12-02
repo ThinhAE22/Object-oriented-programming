@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiceCommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "2d6 3d9 10d20"
+    }
+  }
+}

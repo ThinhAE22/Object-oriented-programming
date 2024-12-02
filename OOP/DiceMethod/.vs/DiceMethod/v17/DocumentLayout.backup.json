@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93874621-4A99-43CF-AC41-DD373BFB762F}|DiceMethod\\DiceMethod.csproj|c:\\users\\k2202936\\onedrive - epedu o365\\oop\\dicemethod\\dicemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93874621-4A99-43CF-AC41-DD373BFB762F}|DiceMethod\\DiceMethod.csproj|solutionrelative:dicemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceMethod\\DiceMethod\\Program.cs",
+              "RelativeDocumentMoniker": "DiceMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceMethod\\DiceMethod\\Program.cs",
+              "RelativeToolTip": "DiceMethod\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:27:08.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thinh\\Downloads\\Activity1b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|c:\\users\\thinh\\downloads\\activity1b\\activity1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|solutionrelative:activity1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|c:\\users\\thinh\\downloads\\activity1b\\activity1b\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|solutionrelative:activity1b\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|c:\\users\\thinh\\downloads\\activity1b\\activity1b\\doorsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|solutionrelative:activity1b\\doorsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|c:\\users\\thinh\\downloads\\activity1b\\activity1b\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859844F3-33ED-47C3-8B7B-102006549465}|Activity1b\\Activity1b.csproj|solutionrelative:activity1b\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "Activity1b\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\TemperatureSensor.cs",
+              "RelativeToolTip": "Activity1b\\TemperatureSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:08:02.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\DoorSensor.cs",
+              "RelativeDocumentMoniker": "Activity1b\\DoorSensor.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\DoorSensor.cs",
+              "RelativeToolTip": "Activity1b\\DoorSensor.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:50:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\Sensor.cs",
+              "RelativeDocumentMoniker": "Activity1b\\Sensor.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\Sensor.cs",
+              "RelativeToolTip": "Activity1b\\Sensor.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvzUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:47:58.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1b\\Program.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1b\\Activity1b\\Program.cs",
+              "RelativeToolTip": "Activity1b\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:19:50.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

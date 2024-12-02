@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadedDice", "LoadedDice\LoadedDice.csproj", "{15843DA3-5290-4604-B46A-4A0223CC9ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15843DA3-5290-4604-B46A-4A0223CC9ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15843DA3-5290-4604-B46A-4A0223CC9ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15843DA3-5290-4604-B46A-4A0223CC9ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15843DA3-5290-4604-B46A-4A0223CC9ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ECEB43C-9562-4542-A60B-24A9C3B4BF9C}
+	EndGlobalSection
+EndGlobal

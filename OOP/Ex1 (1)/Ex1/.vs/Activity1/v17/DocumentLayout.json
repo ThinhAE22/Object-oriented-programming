@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thinh\\Downloads\\Activity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453AA56A-FE12-4797-9C3A-843D8A46F260}|Activity1\\Activity1.csproj|c:\\users\\thinh\\downloads\\activity1\\activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AA56A-FE12-4797-9C3A-843D8A46F260}|Activity1\\Activity1.csproj|solutionrelative:activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AA56A-FE12-4797-9C3A-843D8A46F260}|Activity1\\Activity1.csproj|c:\\users\\thinh\\downloads\\activity1\\activity1\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AA56A-FE12-4797-9C3A-843D8A46F260}|Activity1\\Activity1.csproj|solutionrelative:activity1\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1\\Activity1\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1\\Program.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1\\Activity1\\Program.cs",
+              "RelativeToolTip": "Activity1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:45:19.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\Thinh\\Downloads\\Activity1\\Activity1\\Candidate.cs",
+              "RelativeDocumentMoniker": "Activity1\\Candidate.cs",
+              "ToolTip": "C:\\Users\\Thinh\\Downloads\\Activity1\\Activity1\\Candidate.cs",
+              "RelativeToolTip": "Activity1\\Candidate.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:44:39.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfoInputs.cache
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfo.cs
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\Downloads\Activity1\Activity1\bin\Debug\net8.0\Activity1.exe
+C:\Users\Thinh\Downloads\Activity1\Activity1\bin\Debug\net8.0\Activity1.deps.json
+C:\Users\Thinh\Downloads\Activity1\Activity1\bin\Debug\net8.0\Activity1.runtimeconfig.json
+C:\Users\Thinh\Downloads\Activity1\Activity1\bin\Debug\net8.0\Activity1.dll
+C:\Users\Thinh\Downloads\Activity1\Activity1\bin\Debug\net8.0\Activity1.pdb
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.dll
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\refint\Activity1.dll
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.pdb
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\Activity1.genruntimeconfig.cache
+C:\Users\Thinh\Downloads\Activity1\Activity1\obj\Debug\net8.0\ref\Activity1.dll

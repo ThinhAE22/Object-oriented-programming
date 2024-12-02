@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceCommandLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635A7D5A-F61E-4C95-9F08-7CAB1CCA988D}|DiceCommandLine\\DiceCommandLine.csproj|c:\\users\\k2202936\\onedrive - epedu o365\\oop\\dicecommandline\\dicecommandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A7D5A-F61E-4C95-9F08-7CAB1CCA988D}|DiceCommandLine\\DiceCommandLine.csproj|solutionrelative:dicecommandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A7D5A-F61E-4C95-9F08-7CAB1CCA988D}|DiceCommandLine\\DiceCommandLine.csproj|c:\\users\\k2202936\\onedrive - epedu o365\\oop\\dicecommandline\\dicecommandline\\dicecommandline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{635A7D5A-F61E-4C95-9F08-7CAB1CCA988D}|DiceCommandLine\\DiceCommandLine.csproj|solutionrelative:dicecommandline\\dicecommandline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiceCommandLine",
+              "DocumentMoniker": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceCommandLine\\DiceCommandLine\\DiceCommandLine.csproj",
+              "RelativeDocumentMoniker": "DiceCommandLine\\DiceCommandLine.csproj",
+              "ToolTip": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceCommandLine\\DiceCommandLine\\DiceCommandLine.csproj",
+              "RelativeToolTip": "DiceCommandLine\\DiceCommandLine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T07:10:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceCommandLine\\DiceCommandLine\\Program.cs",
+              "RelativeDocumentMoniker": "DiceCommandLine\\Program.cs",
+              "ToolTip": "C:\\Users\\k2202936\\OneDrive - Epedu O365\\OOP\\DiceCommandLine\\DiceCommandLine\\Program.cs",
+              "RelativeToolTip": "DiceCommandLine\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:34:10.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
